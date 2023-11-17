@@ -18,6 +18,9 @@
   "author": "Yamashita, Shinichi",
   "type": "module",
   "main": "index.cjs",
+  "scripts": {
+    "format": "pnpm dlx sort-package-json"
+  },
   "prettier": "index.cjs",
   "devDependencies": {
     "prettier": "^2.2.0"
