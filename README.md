@@ -10,11 +10,7 @@ yarn add @ichiql/prettier-config
 
 ## config file for prettier
 
-### .eslintrc.cjs
-
-add `prettier` to .eslint.cjs
-
-### package.json
+### settings
 
 ```json:package.json
 {
@@ -23,3 +19,7 @@ add `prettier` to .eslint.cjs
   ~~~
 }
 ```
+
+### eslint
+
+add `prettier` pluigin to eslint config

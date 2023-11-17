@@ -1,6 +1,6 @@
 {
   "name": "@ichiql/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Yamashita, Shinichi",
   "main": "index.cjs",
   "type": "module",
@@ -22,12 +22,10 @@
     "prettier",
     "prettier-config"
   ],
-  "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 0",
-    "lint": "echo \"Warning: no lint specified\" && exit 0"
-  },
   "peerDependencies": {
-    "eslint-config-prettier": "^8.0.0",
+    "prettier": "^2.2.0"
+  },  
+  "devDependencies": {
     "prettier": "^2.2.0"
   }
 }
