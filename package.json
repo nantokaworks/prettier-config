@@ -1,31 +1,31 @@
 {
   "name": "@ichiql/prettier-config",
   "version": "0.1.1",
-  "author": "Yamashita, Shinichi",
-  "main": "index.cjs",
-  "type": "module",
-  "prettier": "index.cjs",
-  "publishConfig": {
-    "access": "public"
+  "description": "config file for prettier",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "homepage": "https://github.com/ichiql/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/ichiql/prettier-config/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ichiql/prettier-config.git"
   },
   "license": "MIT",
-  "description": "config file for prettier",
-  "bugs": {
-    "url": "https://github.com/ichiql/prettier-config/issues"
-  },
-  "homepage": "https://github.com/ichiql/prettier-config#readme",
-  "keywords": [
-    "prettier",
-    "prettier-config"
-  ],
-  "peerDependencies": {
-    "prettier": "^2.2.0"
-  },  
+  "author": "Yamashita, Shinichi",
+  "type": "module",
+  "main": "index.cjs",
+  "prettier": "index.cjs",
   "devDependencies": {
     "prettier": "^2.2.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
