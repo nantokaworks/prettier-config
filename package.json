@@ -1,0 +1,35 @@
+{
+  "name": "@ichiql/prettier",
+  "version": "0.1.0",
+  "author": "Yamashita, Shinichi",
+  "main": "index.cjs",
+  "type": "module",
+  "prettier": "index.cjs",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiql/prettier-config.git"
+  },
+  "license": "MIT",
+  "description": "config file for prettier",
+  "bugs": {
+    "url": "https://github.com/ichiql/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ichiql/prettier-config#readme",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0",
+    "lint": "echo \"Warning: no lint specified\" && exit 0"
+  },
+  "devDependencies": {
+    "@lerna-lite/cli": "^2.7.0",
+    "@lerna-lite/publish": "^2.7.0",
+    "eslint-config-prettier": "^8.0.0",
+    "prettier": "^2.2.0"
+  }
+}
