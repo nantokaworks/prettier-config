@@ -1,18 +1,18 @@
 {
-  "name": "@ichiql/prettier-config",
+  "name": "prettier-config-nantokaworks",
   "version": "0.1.1",
   "description": "config file for prettier",
   "keywords": [
     "prettier",
     "prettier-config"
   ],
-  "homepage": "https://github.com/ichiql/prettier-config#readme",
+  "homepage": "https://github.com/nantokaworks/prettier-config#readme",
   "bugs": {
-    "url": "https://github.com/ichiql/prettier-config/issues"
+    "url": "https://github.com/nantokaworks/prettier-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ichiql/prettier-config.git"
+    "url": "git+https://github.com/nantokaworks/prettier-config.git"
   },
   "license": "MIT",
   "author": "Yamashita, Shinichi",

@@ -1,11 +1,11 @@
-# @ichiql/prettier-config
+# prettier-config-nantokaworks
 
 ## install
 
 ```shell
-pnpm add @ichiql/prettier-config
-npm install @ichiql/prettier-config
-yarn add @ichiql/prettier-config
+pnpm add prettier-config-nantokaworks
+npm install prettier-config-nantokaworks
+yarn add prettier-config-nantokaworks
 ```
 
 ## config file for prettier
@@ -15,7 +15,7 @@ yarn add @ichiql/prettier-config
 ```json:package.json
 {
   ~~~
-  "prettier": "@ichiql/prettier-config"
+  "prettier": "prettier-config-nantokaworks"
   ~~~
 }
 ```
