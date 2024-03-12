@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-nantokaworks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "config file for prettier",
   "keywords": [
     "prettier",
@@ -23,10 +23,10 @@
   },
   "prettier": "index.cjs",
   "devDependencies": {
-    "prettier": "^2.2.0"
+    "prettier": "^2.8.8"
   },
   "peerDependencies": {
-    "prettier": "^2.2.0"
+    "prettier": "^2.8.8"
   },
   "publishConfig": {
     "access": "public"
